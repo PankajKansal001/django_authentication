@@ -1,0 +1,5 @@
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = '2820282.cse@pietgroup.co.in'
+EMAIL_HOST_PASSWORD = 'G@PUGURU02'
+EMAIL_PORT = 587
